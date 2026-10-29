@@ -1,0 +1,5 @@
+kernel,accuracy,precision_macro
+linear,0.846,0.839
+poly,0.803,0.852
+rbf,0.858,0.865
+sigmoid,0.627,0.568
